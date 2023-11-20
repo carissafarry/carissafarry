@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://instagram/carissafarry" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://carissafarry.my.id" target="_blank">
+  <a href="https://carissafarry.vercel.app" target="_blank">
     <img alt="Web" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
