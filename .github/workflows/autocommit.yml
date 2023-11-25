@@ -44,6 +44,7 @@ jobs:
           
           rand=$[$RANDOM % ${#arr[@]}]
           
+          git pull
           git commit -m "${arr[$rand]}"
 
       - name: GitHub Push
